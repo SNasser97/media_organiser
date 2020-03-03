@@ -9,7 +9,7 @@
 	MAKE SURE NO PORTS ARE ALREADY IN USE BY OTHER PROGRAMS AS THIS WILL REQUIRE CHANGING PORTS IN THE CONFIG FILES AND MAY NOT WORK AS PROVIDED.
 
 
-	IMPORT THE media.sql file into phpmyadmin
+	CREATE THE DATABASE "media" (WITHOUT QUOTES) THEN IMPORT THE media.sql file  FOR THAT DATABASE into phpmyadmin
 	- this file contains the table for storing our data or you can read below on the steps in creating the database yourself.
 	
 	IF DATABASE ERROR OCCURS (Ignore if media organiser status is displayed as connected)

@@ -1,5 +1,6 @@
 # media_organiser
-Synoptic Project. Media organiser where you can upload media files to the database and view them on the web page.
+### A Synoptic Project was completed at the end of my apprenticeship with QA.
+A Media organiser where you can upload media files to the database and view them on the web page.
 
 
 1. `install xampp`
